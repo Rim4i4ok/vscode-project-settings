@@ -1,4 +1,4 @@
-This **react** project with settings for **eslint** and **prettier**
+This **react** project with settings for **eslint** and **prettier** in **vscode**
 
 ## List of projects
 

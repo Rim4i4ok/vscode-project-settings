@@ -1,5 +1,5 @@
 {
-  "name": "playground",
+  "name": "react-ts-eslint-prettier",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -17,13 +17,13 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
-  },  
+  },
   "husky": {
-  "hooks": {
-    "pre-commit": "lint-staged"
-  }
-},
-  "lint-staged" : {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
     "src/**/*.{js,jsx,ts,tsx,json,css}": [
       "prettier --write",
       "git add"

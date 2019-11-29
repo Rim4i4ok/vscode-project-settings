@@ -12,11 +12,5 @@
             "autoFix": true
         }
     ],
-    "prettier.singleQuote": false,
-    "prettier.trailingComma": "es5",
-    "prettier.printWidth": 80,
-    "prettier.semi": true,
-    "prettier.useTabs": false,
-    "prettier.tabWidth": 2,
     "eslint.alwaysShowStatus": true,
 }
